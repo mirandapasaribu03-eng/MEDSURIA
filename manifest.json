@@ -913,7 +913,7 @@
 
       <!-- Ganti href dengan link deploy / Play Store milikmu -->
       <a
-        href="https://contoh-domain-anda.com/gu-app"
+        href="https://medsuria-app.vercel.app"
         class="install-btn"
         target="_blank"
         rel="noopener noreferrer"
@@ -2524,3 +2524,4 @@
   </script>
 </body>
 </html>
+
